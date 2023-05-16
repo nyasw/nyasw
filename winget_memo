@@ -1,0 +1,1 @@
+winget import -i MyAppList.json --ignore-versions --accept-package-agreements --ignore-unavailable
