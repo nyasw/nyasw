@@ -7,7 +7,10 @@
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
+					"PackageIdentifier" : "Resolume.Arena"
+				},
+				{
+					"PackageIdentifier" : "XPDLPKWG9SW2WD"
 				},
 				{
 					"PackageIdentifier" : "7zip.7zip"
