@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @nyasw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nyasw/nyasw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+こんにちは、にゃすいです。
+フリーの魔法使い
+http://moftify.com
